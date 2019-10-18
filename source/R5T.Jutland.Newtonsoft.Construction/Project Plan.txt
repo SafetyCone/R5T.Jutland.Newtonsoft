@@ -1,0 +1,4 @@
+R5T.Jutland.Newtonsoft.Construction - A construction console-app for the library R5T.Jutland.Newtonsoft.
+
+Goals
+
