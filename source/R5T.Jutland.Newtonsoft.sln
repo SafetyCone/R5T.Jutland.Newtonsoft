@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Dependencies", "_Dependenc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Jutland.Base", "..\..\R5T.Jutland.Base\source\R5T.Jutland.Base\R5T.Jutland.Base.csproj", "{7C690317-0097-4E46-BE8B-358ED18140FD}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Newport", "..\..\R5T.Newport\source\R5T.Newport\R5T.Newport.csproj", "{86314FA1-044C-4BB0-89E0-D6A345934079}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,12 +73,25 @@ Global
 		{7C690317-0097-4E46-BE8B-358ED18140FD}.Release|x64.Build.0 = Release|Any CPU
 		{7C690317-0097-4E46-BE8B-358ED18140FD}.Release|x86.ActiveCfg = Release|Any CPU
 		{7C690317-0097-4E46-BE8B-358ED18140FD}.Release|x86.Build.0 = Release|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Debug|x64.Build.0 = Debug|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Debug|x86.Build.0 = Debug|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Release|x64.ActiveCfg = Release|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Release|x64.Build.0 = Release|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Release|x86.ActiveCfg = Release|Any CPU
+		{86314FA1-044C-4BB0-89E0-D6A345934079}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7C690317-0097-4E46-BE8B-358ED18140FD} = {91BCEEF6-A971-4042-9E00-33E67ECA28A4}
+		{86314FA1-044C-4BB0-89E0-D6A345934079} = {91BCEEF6-A971-4042-9E00-33E67ECA28A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {000BDC97-A34E-4EDF-B550-183491F3B61B}
