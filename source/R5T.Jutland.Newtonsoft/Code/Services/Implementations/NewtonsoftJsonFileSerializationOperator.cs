@@ -1,9 +1,12 @@
 ﻿using System;
 
+using R5T.T0064;
+
 
 namespace R5T.Jutland.Newtonsoft
 {
-    public class NewtonsoftJsonFileSerializationOperator : IJsonFileSerializationOperator
+    [ServiceImplementationMarker]
+    public class NewtonsoftJsonFileSerializationOperator : IJsonFileSerializationOperator, IServiceImplementation
     {
         public T Deserialize<T>(string jsonFilePath)
         {
